@@ -1,0 +1,28 @@
+name: Marlene Wolfmair
+favicon: null
+layout_spectrum: 0.5385165405459702
+typography_spectrum: 0.25359083875082433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9237614208832383
+  lightness: 0.7879093321971595
+  saturation: 0.6060174405574799
+  rhythmicContrast: 0.7089986214414239
+purpose: []
