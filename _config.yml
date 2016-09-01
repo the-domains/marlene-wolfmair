@@ -1,20 +1,4 @@
-name: Marlene Wolfmair
-favicon: null
-layout_spectrum: 0.37955
 typography_spectrum: 0.42314
-title: Marlene Wolfmair
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,20 @@ color:
   lightness: 0.25
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.37955
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Marlene Wolfmair
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Projects
 purpose: []
